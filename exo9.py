@@ -2,14 +2,14 @@
 
 import sys
 
-seq_a = sys.argv[1]
-seq_b = sys.argv[2]
-
 #This is the help section.
 if sys.argv[1] == "-h":
     print("This program takes two nucleotide sequences and prints out the number of identical matches between the two.")
-if sys.argv =! 3:
+if len(sys.argv) != 3:
     print("Please use two nucleotide sequences.")
+
+seq_a = sys.argv[1]
+seq_b = sys.argv[2]
     
 #This is the actual comparing section.
     
