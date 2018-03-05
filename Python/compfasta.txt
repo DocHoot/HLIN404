@@ -1,0 +1,9 @@
+ID: fasta
+Name: <unknown name>
+Description: <unknown description>
+Number of features: 0
+Seq('TTCAGGTCTGTAATTAAACTTGCGTGAGCATTCATGGGTGAGGTTTTATTTGCA...TGT', IUPACAmbiguousDNA())ID: fasta
+Name: <unknown name>
+Description: <unknown description>
+Number of features: 6
+Seq('GATCAAAGAGAAATTGAATAGCTTAAAATTAGAATCTGAGTCATGGCAAGAAAA...ATC', IUPACAmbiguousDNA())

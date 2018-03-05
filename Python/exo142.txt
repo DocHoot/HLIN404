@@ -1,0 +1,5 @@
+seq 1 => num gi : 374429558, num accession : NR_046237.1 
+seq 2 => num gi : 374429558, num accession : NR_046237.1 
+seq 3 => num gi : 374429558, num accession : NR_046237.1 
+seq 4 => num gi : 374429558, num accession : NR_046237.1 
+seq 5 => num gi : 374429558, num accession : NR_046237.1 
