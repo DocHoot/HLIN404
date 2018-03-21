@@ -1,0 +1,1670 @@
+LOCUS       SRY_HUMAN                204 aa            linear   PRI 28-FEB-2018
+DEFINITION  RecName: Full=Sex-determining region Y protein; AltName:
+            Full=Testis-determining factor.
+ACCESSION   Q05066
+VERSION     Q05066.1
+KEYWORDS    3D-structure; Acetylation; Activator; ADP-ribosylation;
+            Calmodulin-binding; Chromosomal rearrangement; Complete proteome;
+            Cytoplasm; Differentiation; Disease mutation; DNA-binding; Nucleus;
+            Reference proteome; Repressor; Sexual differentiation;
+            Transcription; Transcription regulation.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 204)
+  AUTHORS   Sinclair,A.H., Berta,P., Palmer,M.S., Hawkins,J.R., Griffiths,B.L.,
+            Smith,M.J., Foster,J.W., Frischauf,A.M., Lovell-Badge,R. and
+            Goodfellow,P.N.
+  TITLE     A gene from the human sex-determining region encodes a protein with
+            homology to a conserved DNA-binding motif
+  JOURNAL   Nature 346 (6281), 240-244 (1990)
+   PUBMED   1695712
+  REMARK    NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+REFERENCE   2  (residues 1 to 204)
+  AUTHORS   Su,H. and Lau,Y.F.
+  TITLE     Identification of the transcriptional unit, structural organization,
+            and promoter sequence of the human sex-determining region Y (SRY)
+            gene, using a reverse genetic approach
+  JOURNAL   Am. J. Hum. Genet. 52 (1), 24-38 (1993)
+   PUBMED   8434602
+  REMARK    NUCLEOTIDE SEQUENCE [GENOMIC DNA / MRNA].
+REFERENCE   3  (residues 1 to 204)
+  AUTHORS   Behlke,M.A., Bogan,J.S., Beer-Romero,P. and Page,D.C.
+  TITLE     Evidence that the SRY protein is encoded by a single exon on the
+            human Y chromosome
+  JOURNAL   Genomics 17 (3), 736-739 (1993)
+   PUBMED   8244390
+  REMARK    NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+REFERENCE   4  (residues 1 to 204)
+  AUTHORS   Whitfield,L.S., Hawkins,T.L., Goodfellow,P.N. and Sulston,J.
+  TITLE     41 kilobases of analyzed sequence from the pseudoautosomal and
+            sex-determining regions of the short arm of the human Y chromosome
+  JOURNAL   Genomics 27 (2), 306-311 (1995)
+   PUBMED   7557997
+  REMARK    NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+REFERENCE   5  (residues 1 to 204)
+  AUTHORS   Gerhard,D.S., Wagner,L., Feingold,E.A., Shenmen,C.M., Grouse,L.H.,
+            Schuler,G., Klein,S.L., Old,S., Rasooly,R., Good,P., Guyer,M.,
+            Peck,A.M., Derge,J.G., Lipman,D., Collins,F.S., Jang,W., Sherry,S.,
+            Feolo,M., Misquitta,L., Lee,E., Rotmistrovsky,K., Greenhut,S.F.,
+            Schaefer,C.F., Buetow,K., Bonner,T.I., Haussler,D., Kent,J.,
+            Kiekhaus,M., Furey,T., Brent,M., Prange,C., Schreiber,K.,
+            Shapiro,N., Bhat,N.K., Hopkins,R.F., Hsie,F., Driscoll,T.,
+            Soares,M.B., Casavant,T.L., Scheetz,T.E., Brown-stein,M.J.,
+            Usdin,T.B., Toshiyuki,S., Carninci,P., Piao,Y., Dudekula,D.B.,
+            Ko,M.S., Kawakami,K., Suzuki,Y., Sugano,S., Gruber,C.E., Smith,M.R.,
+            Simmons,B., Moore,T., Waterman,R., Johnson,S.L., Ruan,Y., Wei,C.L.,
+            Mathavan,S., Gunaratne,P.H., Wu,J., Garcia,A.M., Hulyk,S.W., Fuh,E.,
+            Yuan,Y., Sneed,A., Kowis,C., Hodgson,A., Muzny,D.M., McPherson,J.,
+            Gibbs,R.A., Fahey,J., Helton,E., Ketteman,M., Madan,A.,
+            Rodrigues,S., Sanchez,A., Whiting,M., Madari,A., Young,A.C.,
+            Wetherby,K.D., Granite,S.J., Kwong,P.N., Brinkley,C.P.,
+            Pearson,R.L., Bouffard,G.G., Blakesly,R.W., Green,E.D.,
+            Dickson,M.C., Rodriguez,A.C., Grimwood,J., Schmutz,J., Myers,R.M.,
+            Butterfield,Y.S., Griffith,M., Griffith,O.L., Krzywinski,M.I.,
+            Liao,N., Morin,R., Palmquist,D., Petrescu,A.S., Skalska,U.,
+            Smailus,D.E., Stott,J.M., Schnerch,A., Schein,J.E., Jones,S.J.,
+            Holt,R.A., Baross,A., Marra,M.A., Clifton,S., Makowski,K.A.,
+            Bosak,S. and Malek,J.
+  CONSRTM   MGC Project Team
+  TITLE     The status, quality, and expansion of the NIH full-length cDNA
+            project: the Mammalian Gene Collection (MGC)
+  JOURNAL   Genome Res. 14 (10B), 2121-2127 (2004)
+   PUBMED   15489334
+  REMARK    NUCLEOTIDE SEQUENCE [LARGE SCALE MRNA]. Erratum:[Genome Res. 2006
+            Jun;16(6):804. Morrin, Ryan [corrected to Morin, Ryan]]
+REFERENCE   6  (residues 1 to 204)
+  AUTHORS   Ferrari,S., Harley,V.R., Pontiggia,A., Goodfellow,P.N.,
+            Lovell-Badge,R. and Bianchi,M.E.
+  TITLE     SRY, like HMG1, recognizes sharp angles in DNA
+  JOURNAL   EMBO J. 11 (12), 4497-4506 (1992)
+   PUBMED   1425584
+  REMARK    CHARACTERIZATION OF DNA-BINDING.
+REFERENCE   7  (residues 1 to 204)
+  AUTHORS   King,C.Y. and Weiss,M.A.
+  TITLE     The SRY high-mobility-group box recognizes DNA by partial
+            intercalation in the minor groove: a topological mechanism of
+            sequence specificity
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 90 (24), 11990-11994 (1993)
+   PUBMED   8265659
+  REMARK    CHARACTERIZATION OF DNA-BINDING.
+REFERENCE   8  (residues 1 to 204)
+  AUTHORS   Giese,K., Pagel,J. and Grosschedl,R.
+  TITLE     Distinct DNA-binding properties of the high mobility group domain of
+            murine and human SRY sex-determining factors
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 91 (8), 3368-3372 (1994)
+   PUBMED   8159753
+  REMARK    CHARACTERIZATION OF DNA-BINDING.
+REFERENCE   9  (residues 1 to 204)
+  AUTHORS   Poulat,F., de Santa Barbara,P., Desclozeaux,M., Soullier,S.,
+            Moniot,B., Bonneaud,N., Boizet,B. and Berta,P.
+  TITLE     The human testis determining factor SRY binds a nuclear factor
+            containing PDZ protein interaction domains
+  JOURNAL   J. Biol. Chem. 272 (11), 7167-7172 (1997)
+   PUBMED   9054412
+  REMARK    INTERACTION WITH SLC9A3R2.
+REFERENCE   10  (residues 1 to 204)
+  AUTHORS   Desclozeaux,M., Poulat,F., de Santa Barbara,P., Capony,J.P.,
+            Turowski,P., Jay,P., Mejean,C., Moniot,B., Boizet,B. and Berta,P.
+  TITLE     Phosphorylation of an N-terminal motif enhances DNA-binding activity
+            of the human SRY protein
+  JOURNAL   J. Biol. Chem. 273 (14), 7988-7995 (1998)
+   PUBMED   9525897
+  REMARK    PHOSPHORYLATION, AND MUTAGENESIS OF 31-SER--SER-33.
+REFERENCE   11  (residues 1 to 204)
+  AUTHORS   Mayer,A., Lahr,G., Swaab,D.F., Pilgrim,C. and Reisert,I.
+  TITLE     The Y-chromosomal genes SRY and ZFY are transcribed in adult human
+            brain
+  JOURNAL   Neurogenetics 1 (4), 281-288 (1998)
+   PUBMED   10732804
+  REMARK    TISSUE SPECIFICITY.
+REFERENCE   12  (residues 1 to 204)
+  AUTHORS   Ohe,K., Lalli,E. and Sassone-Corsi,P.
+  TITLE     A direct role of SRY and SOX proteins in pre-mRNA splicing
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 99 (3), 1146-1151 (2002)
+   PUBMED   11818535
+  REMARK    FUNCTION, AND SUBCELLULAR LOCATION.
+REFERENCE   13  (residues 1 to 204)
+  AUTHORS   Matsuzawa-Watanabe,Y., Inoue,J. and Semba,K.
+  TITLE     Transcriptional activity of testis-determining factor SRY is
+            modulated by the Wilms' tumor 1 gene product, WT1
+  JOURNAL   Oncogene 22 (39), 7900-7904 (2003)
+   PUBMED   12970737
+  REMARK    INTERACTION WITH WT1.
+REFERENCE   14  (residues 1 to 204)
+  AUTHORS   Harley,V.R., Layfield,S., Mitchell,C.L., Forwood,J.K., John,A.P.,
+            Briggs,L.J., McDowall,S.G. and Jans,D.A.
+  TITLE     Defective importin beta recognition and nuclear import of the
+            sex-determining factor SRY are associated with XY sex-reversing
+            mutations
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 100 (12), 7045-7050 (2003)
+   PUBMED   12764225
+  REMARK    INTERACTION WITH KPNB1, DNA-BINDING, AND MUTAGENESIS OF ARG-62;
+            ARG-75; ARG-76 AND ARG-133.
+REFERENCE   15  (residues 1 to 204)
+  AUTHORS   Kelly,S., Yotis,J., Macris,M. and Harley,V.
+  TITLE     Recombinant expression, purification and characterisation of the HMG
+            domain of human SRY
+  JOURNAL   Protein Pept. Lett. 10 (3), 281-286 (2003)
+   PUBMED   12871148
+  REMARK    INTERACTION WITH CALM.
+REFERENCE   16  (residues 1 to 204)
+  AUTHORS   Phillips,N.B., Nikolskaya,T., Jancso-Radek,A., Ittah,V., Jiang,F.,
+            Singh,R., Haas,E. and Weiss,M.A.
+  TITLE     Sry-directed sex reversal in transgenic mice is robust with respect
+            to enhanced DNA bending: comparison of human and murine HMG boxes
+  JOURNAL   Biochemistry 43 (22), 7066-7081 (2004)
+   PUBMED   15170344
+  REMARK    FUNCTION, AND DNA-BINDING.
+REFERENCE   17  (residues 1 to 204)
+  AUTHORS   Thevenet,L., Mejean,C., Moniot,B., Bonneaud,N., Galeotti,N.,
+            Aldrian-Herrada,G., Poulat,F., Berta,P., Benkirane,M. and
+            Boizet-Bonhoure,B.
+  TITLE     Regulation of human SRY subcellular distribution by its
+            acetylation/deacetylation
+  JOURNAL   EMBO J. 23 (16), 3336-3345 (2004)
+   PUBMED   15297880
+  REMARK    INTERACTION WITH EP300; HDAC3 AND KPNB1, ACETYLATION AT LYS-136,
+            MUTAGENESIS OF LYS-115; LYS-123; LYS-128; LYS-134 AND LYS-136, AND
+            SUBCELLULAR LOCATION.
+REFERENCE   18  (residues 1 to 204)
+  AUTHORS   Oh,H.J., Li,Y. and Lau,Y.F.
+  TITLE     Sry associates with the heterochromatin protein 1 complex by
+            interacting with a KRAB domain protein
+  JOURNAL   Biol. Reprod. 72 (2), 407-415 (2005)
+   PUBMED   15469996
+  REMARK    INTERACTION WITH ZNF208 ISOFORM KRAB-O.
+REFERENCE   19  (residues 1 to 204)
+  AUTHORS   Sim,H., Rimmer,K., Kelly,S., Ludbrook,L.M., Clayton,A.H. and
+            Harley,V.R.
+  TITLE     Defective calmodulin-mediated nuclear transport of the
+            sex-determining region of the Y chromosome (SRY) in XY sex reversal
+  JOURNAL   Mol. Endocrinol. 19 (7), 1884-1892 (2005)
+   PUBMED   15746192
+  REMARK    INTERACTION WITH CALM, MUTAGENESIS OF ARG-75; ARG-76 AND ARG-133,
+            AND SUBCELLULAR LOCATION.
+REFERENCE   20  (residues 1 to 204)
+  AUTHORS   Li,B., Phillips,N.B., Jancso-Radek,A., Ittah,V., Singh,R.,
+            Jones,D.N., Haas,E. and Weiss,M.A.
+  TITLE     SRY-directed DNA bending and human sex reversal: reassessment of a
+            clinical mutation uncovers a global coupling between the HMG box and
+            its tail
+  JOURNAL   J. Mol. Biol. 360 (2), 310-328 (2006)
+   PUBMED   16762365
+  REMARK    FUNCTION, AND MUTAGENESIS OF MET-64.
+REFERENCE   21  (residues 1 to 204)
+  AUTHORS   Li,Y., Oh,H.J. and Lau,Y.F.
+  TITLE     The poly(ADP-ribose) polymerase 1 interacts with Sry and modulates
+            its biological functions
+  JOURNAL   Mol. Cell. Endocrinol. 257-258, 35-46 (2006)
+   PUBMED   16904257
+  REMARK    INTERACTION WITH PARP1, AND ADP-RIBOSYLATION. Erratum:[Mol Cell
+            Endocrinol. 2007 Jan 15;263(1-2):190-1]
+REFERENCE   22  (residues 1 to 204)
+  AUTHORS   Polanco,J.C. and Koopman,P.
+  TITLE     Sry and the hesitant beginnings of male development
+  JOURNAL   Dev. Biol. 302 (1), 13-24 (2007)
+   PUBMED   16996051
+  REMARK    REVIEW.
+REFERENCE   23  (residues 1 to 204)
+  AUTHORS   Oh,H.J. and Lau,Y.F.
+  TITLE     KRAB: a partner for SRY action on chromatin
+  JOURNAL   Mol. Cell. Endocrinol. 247 (1-2), 47-52 (2006)
+   PUBMED   16414182
+  REMARK    REVIEW.
+REFERENCE   24  (residues 1 to 204)
+  AUTHORS   Werner,M.H., Huth,J.R., Gronenborn,A.M. and Clore,G.M.
+  TITLE     Molecular basis of human 46X,Y sex reversal revealed from the
+            three-dimensional solution structure of the human SRY-DNA complex
+  JOURNAL   Cell 81 (5), 705-714 (1995)
+   PUBMED   7774012
+  REMARK    STRUCTURE BY NMR OF 56-131 IN COMPLEX WITH DNA.
+REFERENCE   25  (residues 1 to 204)
+  AUTHORS   Murphy,E.C., Zhurkin,V.B., Louis,J.M., Cornilescu,G. and Clore,G.M.
+  TITLE     Structural basis for SRY-dependent 46-X,Y sex reversal: modulation
+            of DNA bending by a naturally occurring point mutation
+  JOURNAL   J. Mol. Biol. 312 (3), 481-499 (2001)
+   PUBMED   11563911
+  REMARK    STRUCTURE BY NMR OF 57-218 IN COMPLEX WITH DNA, CHARACTERIZATION OF
+            VARIANT SRXY1 ILE-64, AND FUNCTION.
+REFERENCE   26  (residues 1 to 204)
+  AUTHORS   Stott,K., Tang,G.S., Lee,K.B. and Thomas,J.O.
+  TITLE     Structure of a complex of tandem HMG boxes and DNA
+  JOURNAL   J. Mol. Biol. 360 (1), 90-104 (2006)
+   PUBMED   16813837
+  REMARK    STRUCTURE BY NMR OF 56-130 IN COMPLEX WITH DNA.
+REFERENCE   27  (residues 1 to 204)
+  AUTHORS   Hawkins,J.R.
+  TITLE     Mutational analysis of SRY in XY females
+  JOURNAL   Hum. Mutat. 2 (5), 347-350 (1993)
+   PUBMED   8257986
+  REMARK    REVIEW ON VARIANTS.
+REFERENCE   28  (residues 1 to 204)
+  AUTHORS   Cameron,F.J. and Sinclair,A.H.
+  TITLE     Mutations in SRY and SOX9: testis-determining genes
+  JOURNAL   Hum. Mutat. 9 (5), 388-395 (1997)
+   PUBMED   9143916
+  REMARK    REVIEW ON VARIANTS.
+REFERENCE   29  (residues 1 to 204)
+  AUTHORS   Berta,P., Hawkins,J.R., Sinclair,A.H., Taylor,A., Griffiths,B.L.,
+            Goodfellow,P.N. and Fellous,M.
+  TITLE     Genetic evidence equating SRY and the testis-determining factor
+  JOURNAL   Nature 348 (6300), 448-450 (1990)
+   PUBMED   2247149
+  REMARK    VARIANTS SRXY1 LEU-60 AND ILE-64.
+REFERENCE   30  (residues 1 to 204)
+  AUTHORS   Affara,N.A., Chalmers,I.J. and Ferguson-Smith,M.A.
+  TITLE     Analysis of the SRY gene in 22 sex-reversed XY females identifies
+            four new point mutations in the conserved DNA binding domain
+  JOURNAL   Hum. Mol. Genet. 2 (6), 785-789 (1993)
+   PUBMED   8353496
+  REMARK    VARIANTS SRXY1 GLY-62; THR-78 AND TRP-133.
+REFERENCE   31  (residues 1 to 204)
+  AUTHORS   Vilain,E., McElreavey,K., Jaubert,F., Raymond,J.P., Richaud,F. and
+            Fellous,M.
+  TITLE     Familial case with sequence variant in the testis-determining region
+            associated with two sex phenotypes
+  JOURNAL   Am. J. Hum. Genet. 50 (5), 1008-1011 (1992)
+   PUBMED   1570829
+  REMARK    VARIANT SRXY1 LEU-60.
+REFERENCE   32  (residues 1 to 204)
+  AUTHORS   Hawkins,J.R., Taylor,A., Goodfellow,P.N., Migeon,C.J., Smith,K.D.
+            and Berkovitz,G.D.
+  TITLE     Evidence for increased prevalence of SRY mutations in XY females
+            with complete rather than partial gonadal dysgenesis
+  JOURNAL   Am. J. Hum. Genet. 51 (5), 979-984 (1992)
+   PUBMED   1415266
+  REMARK    VARIANTS SRXY1 MET-90 AND ILE-106.
+REFERENCE   33  (residues 1 to 204)
+  AUTHORS   Hawkins,J.R., Taylor,A., Berta,P., Levilliers,J., Van der Auwera,B.
+            and Goodfellow,P.N.
+  TITLE     Mutational analysis of SRY: nonsense and missense mutations in XY
+            sex reversal
+  JOURNAL   Hum. Genet. 88 (4), 471-474 (1992)
+   PUBMED   1339396
+  REMARK    VARIANT SRXY1 ARG-95.
+REFERENCE   34  (residues 1 to 204)
+  AUTHORS   Braun,A., Kammerer,S., Cleve,H., Lohrs,U., Schwarz,H.P. and
+            Kuhnle,U.
+  TITLE     True hermaphroditism in a 46,XY individual, caused by a postzygotic
+            somatic point mutation in the male gonadal sex-determining locus
+            (SRY): molecular genetics and histological findings in a sporadic
+            case
+  JOURNAL   Am. J. Hum. Genet. 52 (3), 578-585 (1993)
+   PUBMED   8447323
+  REMARK    VARIANT SRXY1 HIS-101.
+REFERENCE   35  (residues 1 to 204)
+  AUTHORS   Jager,R.J., Harley,V.R., Pfeiffer,R.A., Goodfellow,P.N. and
+            Scherer,G.
+  TITLE     A familial mutation in the testis-determining gene SRY shared by
+            both sexes
+  JOURNAL   Hum. Genet. 90 (4), 350-355 (1992)
+   PUBMED   1483689
+  REMARK    VARIANT SRXY1 SER-109.
+REFERENCE   36  (residues 1 to 204)
+  AUTHORS   Zeng,Y.T., Ren,Z.R., Zhang,M.L., Huang,Y., Zeng,F.Y. and Huang,S.Z.
+  TITLE     A new de novo mutation (A113T) in HMG box of the SRY gene leads to
+            XY gonadal dysgenesis
+  JOURNAL   J. Med. Genet. 30 (8), 655-657 (1993)
+   PUBMED   8105086
+  REMARK    VARIANT SRXY1 THR-113.
+REFERENCE   37  (residues 1 to 204)
+  AUTHORS   Poulat,F., Soullier,S., Goze,C., Heitz,F., Calas,B. and Berta,P.
+  TITLE     Description and functional implications of a novel mutation in the
+            sex-determining gene SRY
+  JOURNAL   Hum. Mutat. 3 (3), 200-204 (1994)
+   PUBMED   8019555
+  REMARK    VARIANT SRXY1 CYS-127.
+REFERENCE   38  (residues 1 to 204)
+  AUTHORS   Haqq,C.M., King,C.Y., Ukiyama,E., Falsafi,S., Haqq,T.N.,
+            Donahoe,P.K. and Weiss,M.A.
+  TITLE     Molecular basis of mammalian sexual determination: activation of
+            Mullerian inhibiting substance gene expression by SRY
+  JOURNAL   Science 266 (5190), 1494-1500 (1994)
+   PUBMED   7985018
+  REMARK    VARIANT SRXY1 THR-68. Erratum:[Science 1995 Jan 20;267(5196):317]
+REFERENCE   39  (residues 1 to 204)
+  AUTHORS   Schmitt-Ney,M., Thiele,H., Kaltwasser,P., Bardoni,B., Cisternino,M.
+            and Scherer,G.
+  TITLE     Two novel SRY missense mutations reducing DNA binding identified in
+            XY females and their mosaic fathers
+  JOURNAL   Am. J. Hum. Genet. 56 (4), 862-869 (1995)
+   PUBMED   7717397
+  REMARK    VARIANTS SRXY1 GLY-91 AND LEU-125.
+REFERENCE   40  (residues 1 to 204)
+  AUTHORS   Hiort,O., Gramss,B. and Klauber,G.T.
+  TITLE     True hermaphroditism with 46,XY karyotype and a point mutation in
+            the SRY gene
+  JOURNAL   J. Pediatr. 126 (6), 1022 (1995)
+   PUBMED   7776083
+  REMARK    VARIANT SRXY1 ALA-60.
+REFERENCE   41  (residues 1 to 204)
+  AUTHORS   Lundberg,Y., Ritzen,M., Harlin,J. and Wedell,A.
+  TITLE     Novel missense mutation (P131R) in the HMG box of SRY in XY sex
+            reversal
+  JOURNAL   Hum. Mutat. Suppl. 1, S328-S328 (1998)
+  REMARK    VARIANT SRXY1 ARG-131.
+REFERENCE   42  (residues 1 to 204)
+  AUTHORS   Scherer,G., Held,M., Erdel,M., Meschede,D., Horst,J., Lesniewicz,R.
+            and Midro,A.T.
+  TITLE     Three novel SRY mutations in XY gonadal dysgenesis and the enigma of
+            XY gonadal dysgenesis cases without SRY mutations
+  JOURNAL   Cytogenet. Cell Genet. 80 (1-4), 188-192 (1998)
+   PUBMED   9678356
+  REMARK    VARIANTS SRXY1 ARG-64 AND VAL-67.
+REFERENCE   43  (residues 1 to 204)
+  AUTHORS   Domenice,S., Nishi,M.Y., Billerbeck,A.E.C., Latronico,A.C.,
+            Medeiros,M.A., Russell,A.J., Vass,K., Carvalho,F.M.,
+            Costa-Frade,E.M., Arnhold,I.J.P. and Mendonca,B.B.
+  TITLE     A novel missense mutation (S18N) in the 5' non-HMG box region of the
+            SRY gene in a patient with partial gonadal dysgenesis and his normal
+            male relatives
+  JOURNAL   Hum. Genet. 102 (2), 213-215 (1998)
+   PUBMED   9521592
+  REMARK    VARIANT SRXY1 ASN-18.
+REFERENCE   44  (residues 1 to 204)
+  AUTHORS   Dork,T., Stuhrmann,M., Miller,K. and Schmidtke,J.
+  TITLE     Independent observation of SRY mutation I90M in a patient with
+            complete gonadal dysgenesis
+  JOURNAL   Hum. Mutat. 11 (1), 90-91 (1998)
+   PUBMED   9450909
+  REMARK    VARIANT SRXY1 MET-90.
+REFERENCE   45  (residues 1 to 204)
+  AUTHORS   Inoue,H., Nomura,M., Yanase,T., Ichino,I., Goto,K., Ikuyama,S.,
+            Takayanagi,R. and Nawata,H.
+  TITLE     A rare case of 46,XX true hermaphroditism with hidden mosaicism with
+            sex-determining region Y chromosome-bearing cells in the gonads
+  JOURNAL   Intern. Med. 37 (5), 467-471 (1998)
+   PUBMED   9652903
+  REMARK    INVOLVEMENT IN SRXX1.
+REFERENCE   46  (residues 1 to 204)
+  AUTHORS   Imai,A., Takagi,A. and Tamaya,T.
+  TITLE     A novel sex-determining region on Y (SRY) missense mutation
+            identified in a 46,XY female and also in the father
+  JOURNAL   Endocr. J. 46 (5), 735-739 (1999)
+   PUBMED   10670762
+  REMARK    VARIANT SRXY1 SER-76.
+REFERENCE   47  (residues 1 to 204)
+  AUTHORS   Jakubiczka,S., Bettecken,T., Stumm,M., Neulen,J. and Wieacker,P.
+  TITLE     Another mutation within the HMG-box of the SRY gene associated with
+            Swyer syndrome
+  JOURNAL   Hum. Mutat. 13, 85-85 (1999)
+  REMARK    VARIANT SRXY1 ARG-108.
+REFERENCE   48  (residues 1 to 204)
+  AUTHORS   Margarit,E., Coll,M.D., Oliva,R., Gomez,D., Soler,A. and Ballesta,F.
+  TITLE     SRY gene transferred to the long arm of the X chromosome in a
+            Y-positive XX true hermaphrodite
+  JOURNAL   Am. J. Med. Genet. 90 (1), 25-28 (2000)
+   PUBMED   10602113
+  REMARK    INVOLVEMENT IN SRXX1.
+REFERENCE   49  (residues 1 to 204)
+  AUTHORS   Schaffler,A., Barth,N., Winkler,K., Zietz,B., Rummele,P.,
+            Knuchel,R., Scholmerich,J. and Palitzsch,K.D.
+  TITLE     Identification of a new missense mutation (Gly95Glu) in a highly
+            conserved codon within the high-mobility group box of the
+            sex-determining region Y gene: report on a 46,XY female with gonadal
+            dysgenesis and yolk-sac tumor
+  JOURNAL   J. Clin. Endocrinol. Metab. 85 (6), 2287-2292 (2000)
+   PUBMED   10852465
+  REMARK    VARIANT SRXY1 GLU-95.
+REFERENCE   50  (residues 1 to 204)
+  AUTHORS   Canto,P., de la Chesnaye,E., Lopez,M., Cervantes,A., Chavez,B.,
+            Vilchis,F., Reyes,E., Ulloa-Aguirre,A., Kofman-Alfaro,S. and
+            Mendez,J.P.
+  TITLE     A mutation in the 5' non-high mobility group box region of the SRY
+            gene in patients with Turner syndrome and Y mosaicism
+  JOURNAL   J. Clin. Endocrinol. Metab. 85 (5), 1908-1911 (2000)
+   PUBMED   10843173
+  REMARK    VARIANT SRXY1 ASN-18.
+REFERENCE   51  (residues 1 to 204)
+  AUTHORS   Okuhara,K., Tajima,T., Nakae,J. and Fujieda,K.
+  TITLE     A novel missense mutation in the HMG box region of the SRY gene in a
+            Japanese patient with an XY sex reversal
+  JOURNAL   J. Hum. Genet. 45 (2), 112-114 (2000)
+   PUBMED   10721678
+  REMARK    VARIANT SRXY1 TYR-87.
+REFERENCE   52  (residues 1 to 204)
+  AUTHORS   Jordan,B.K., Jain,M., Natarajan,S., Frasier,S.D. and Vilain,E.
+  TITLE     Familial mutation in the testis-determining gene SRY shared by an XY
+            female and her normal father
+  JOURNAL   J. Clin. Endocrinol. Metab. 87 (7), 3428-3432 (2002)
+   PUBMED   12107262
+  REMARK    VARIANT SRXY1 PHE-127.
+REFERENCE   53  (residues 1 to 204)
+  AUTHORS   Maier,E.M., Leitner,C., Lohrs,U. and Kuhnle,U.
+  TITLE     True hermaphroditism in an XY individual due to a familial point
+            mutation of the SRY gene
+  JOURNAL   J. Pediatr. Endocrinol. Metab. 16 (4), 575-580 (2003)
+   PUBMED   12793612
+  REMARK    VARIANT SRXY1 MET-90.
+REFERENCE   54  (residues 1 to 204)
+  AUTHORS   Gimelli,G., Gimelli,S., Dimasi,N., Bocciardi,R., Di Battista,E.,
+            Pramparo,T. and Zuffardi,O.
+  TITLE     Identification and molecular modelling of a novel familial mutation
+            in the SRY gene implicated in the pure gonadal dysgenesis
+  JOURNAL   Eur. J. Hum. Genet. 15 (1), 76-80 (2007)
+   PUBMED   17063144
+  REMARK    VARIANT SRXY1 LEU-3.
+REFERENCE   55  (residues 1 to 204)
+  AUTHORS   Fan,W., Wang,B., He,S., Zhang,T., Yin,C., Chen,Y., Zheng,S.,
+            Zhang,J. and Li,L.
+  TITLE     A Novel Missense Mutation 224G>T (R75M) in SRY Coding Region
+            Interferes with Nuclear Import and Results in 46, XY Complete
+            Gonadal Dysgenesis
+  JOURNAL   PLoS ONE 11 (12), e0168484 (2016)
+   PUBMED   28030592
+  REMARK    INVOLVEMENT IN SRXY1, VARIANT SRXY1 MET-75, CHARACTERIZATION OF
+            VARIANT SRXY1 MET-75, AND SUBCELLULAR LOCATION. Publication Status:
+            Online-Only
+COMMENT     On Mar 15, 2005 this sequence version replaced gi:1082784.
+            [DISEASE] 46,XY sex reversal 1 (SRXY1) [MIM:400044]: A condition
+            characterized by male-to-female sex reversal in the presence of a
+            normal 46,XY karyotype. Patients manifest rapid and early
+            degeneration of their gonads, which are present in the adult as
+            'streak gonads', consisting mainly of fibrous tissue and variable
+            amounts of ovarian stroma. As a result these patients do not
+            develop secondary sexual characteristics at puberty. The external
+            genitalia in these subjects are completely female, and Muellerian
+            structures are normal. {ECO:0000269|PubMed:10670762,
+            ECO:0000269|PubMed:10721678, ECO:0000269|PubMed:10843173,
+            ECO:0000269|PubMed:10852465, ECO:0000269|PubMed:11563911,
+            ECO:0000269|PubMed:12107262, ECO:0000269|PubMed:12793612,
+            ECO:0000269|PubMed:1339396, ECO:0000269|PubMed:1415266,
+            ECO:0000269|PubMed:1483689, ECO:0000269|PubMed:1570829,
+            ECO:0000269|PubMed:17063144, ECO:0000269|PubMed:2247149,
+            ECO:0000269|PubMed:28030592, ECO:0000269|PubMed:7717397,
+            ECO:0000269|PubMed:7776083, ECO:0000269|PubMed:7985018,
+            ECO:0000269|PubMed:8019555, ECO:0000269|PubMed:8105086,
+            ECO:0000269|PubMed:8353496, ECO:0000269|PubMed:8447323,
+            ECO:0000269|PubMed:9450909, ECO:0000269|PubMed:9521592,
+            ECO:0000269|PubMed:9678356, ECO:0000269|Ref.41,
+            ECO:0000269|Ref.47}. Note=The disease is caused by mutations
+            affecting the gene represented in this entry.
+            [FUNCTION] Transcriptional regulator that controls a genetic switch
+            in male development. It is necessary and sufficient for initiating
+            male sex determination by directing the development of supporting
+            cell precursors (pre-Sertoli cells) as Sertoli rather than
+            granulosa cells (By similarity). In male adult brain involved in
+            the maintenance of motor functions of dopaminergic neurons (By
+            similarity). Involved in different aspects of gene regulation
+            including promoter activation or repression (By similarity).
+            Promotes DNA bending. SRY HMG box recognizes DNA by partial
+            intercalation in the minor groove. Also involved in pre-mRNA
+            splicing. Binds to the DNA consensus sequence 5'-[AT]AACAA[AT]-3'.
+            {ECO:0000250, ECO:0000269|PubMed:11563911,
+            ECO:0000269|PubMed:11818535, ECO:0000269|PubMed:15170344,
+            ECO:0000269|PubMed:16762365}.
+            [SUBCELLULAR LOCATION] Nucleus speckle
+            {ECO:0000269|PubMed:11818535}. Cytoplasm
+            {ECO:0000269|PubMed:15297880}. Nucleus
+            {ECO:0000269|PubMed:15297880, ECO:0000269|PubMed:15746192,
+            ECO:0000269|PubMed:28030592}. Note=Acetylation contributes to its
+            nuclear localization and deacetylation by HDAC3 induces a
+            cytoplasmic delocalization (PubMed:15297880). Colocalizes with SOX6
+            in speckles (PubMed:11818535). Colocalizes with CAML in the nucleus
+            (PubMed:15746192). Colocalizes in the nucleus with ZNF208 isoform
+            KRAB-O and tyrosine hydroxylase (TH) (By similarity).
+            {ECO:0000250|UniProtKB:Q05738, ECO:0000269|PubMed:11818535,
+            ECO:0000269|PubMed:15297880, ECO:0000269|PubMed:15746192}.
+            [SUBUNIT] Interacts with CALM, EP300, HDAC3, KPNB1, ZNF208 isoform
+            KRAB-O, PARP1, SLC9A3R2 and WT1. The interaction with EP300
+            modulates its DNA-binding activity. The interaction with KPNB1 is
+            sensitive to dissociation by Ran in the GTP-bound form (By
+            similarity). Interaction with PARP1 impaired its DNA-binding
+            activity (By similarity). {ECO:0000250}.
+            [DISEASE] Note=A 45,X chromosomal aberration involving SRY is found
+            in Turner syndrome, a disease characterized by gonadal dysgenesis
+            with short stature, 'streak gonads', variable abnormalities such as
+            webbing of the neck, cubitus valgus, cardiac defects, low posterior
+            hair line. The phenotype is female.
+            [DISEASE] 46,XX sex reversal 1 (SRXX1) [MIM:400045]: A condition in
+            which male gonads develop in a genetic female (female to male sex
+            reversal). {ECO:0000269|PubMed:10602113,
+            ECO:0000269|PubMed:9652903}. Note=The disease is caused by
+            mutations affecting the gene represented in this entry.
+            [DOMAIN] DNA binding and bending properties of the HMG domains of
+            human and mouse SRY differ form each other. Human SRY shows more
+            extensive minor groove contacts with DNA and a lower specificity of
+            sequence recognition than mouse SRY.
+            [PTM] Phosphorylated on serine residues by PKA. Phosphorylation by
+            PKA enhances its DNA-binding activity and stimulates transcription
+            repression. {ECO:0000269|PubMed:9525897}.
+            [PTM] Acetylation of Lys-136 contributes to its nuclear
+            localization and enhances its interaction with KPNB1. Deacetylated
+            by HDAC3. {ECO:0000269|PubMed:15297880}.
+            [WEB RESOURCE] Name=Protein Spotlight; Note=The tenuous nature of
+            sex - Issue 80 of March 2007;
+            URL='https://web.expasy.org/spotlight/back_issues/080'.
+            [PTM] Poly-ADP-ribosylated by PARP1. ADP-ribosylation reduces its
+            DNA-binding activity.
+            [WEB RESOURCE] Name=Wikipedia; Note=SRY entry;
+            URL='https://en.wikipedia.org/wiki/SRY'.
+            [SIMILARITY] Belongs to the SRY family. {ECO:0000305}.
+FEATURES             Location/Qualifiers
+     source          1..204
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     gene            1..204
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+     Protein         1..204
+                     /product="Sex-determining region Y protein"
+                     /note="Testis-determining factor"
+                     /UniProtKB_evidence="Evidence at protein level"
+     Region          1..204
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Mature chain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Sex-determining region Y protein.
+                     /FTId=PRO_0000048671."
+     Region          3
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S -> L (in SRXY1). {ECO:0000269|PubMed:17063144}.
+                     /FTId=VAR_030019."
+     Region          18
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S -> N (in SRXY1; partial; also in two patients with
+                     a Turner syndrome phenotype; dbSNP:rs104894971).
+                     {ECO:0000269|PubMed:10843173, ECO:0000269|PubMed:9521592}.
+                     /FTId=VAR_003717."
+     Site            31..33
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="mutagenized"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="SSS->AAA: Abolishes its phosphorylation by PKA. Does
+                     not enhance its DNA-binding activity. Abolishes stimulation
+                     of transcription repression. {ECO:0000269|PubMed:9525897}."
+     Region          59..136
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Sufficient for interaction with KPNB1."
+     Region          59..130
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="SOX-TCF_HMG-box"
+                     /note="SOX-TCF_HMG-box, class I member of the HMG-box
+                     superfamily of DNA-binding proteins. These proteins contain
+                     a single HMG box, and bind the minor groove of DNA in a
+                     highly sequence-specific manner. Members include SRY and
+                     its homologs in insects and...; cd01388"
+                     /db_xref="CDD:238684"
+     Site            60..128
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="DNA binding"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="HMG box. {ECO:0000255|PROSITE-ProRule:PRU00267}."
+     Region          60
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="V -> A (in SRXY1; dbSNP:rs764249635).
+                     {ECO:0000269|PubMed:7776083}. /FTId=VAR_003718."
+     Region          60
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="V -> L (in SRXY1; dbSNP:rs104894957).
+                     {ECO:0000269|PubMed:1570829, ECO:0000269|PubMed:2247149}.
+                     /FTId=VAR_003719."
+     Region          61..77
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Required for nuclear localization."
+     Site            order(62,64..65,67..68,71..72,75,79,87,92,95,98,117)
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="DNA binding"
+                     /note="DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238684"
+     Region          62
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="R -> G (in SRXY1). {ECO:0000269|PubMed:8353496}.
+                     /FTId=VAR_003720."
+     Site            62
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="mutagenized"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="R->G: Strongly reduces nuclear localization.
+                     Strongly reduces nuclear localization; when associated with
+                     W-133. Reduces interaction with KPNB1. Abolishes
+                     DNA-binding. {ECO:0000269|PubMed:12764225}."
+     Region          64
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="M -> I (in SRXY1; alters interaction with DNA and
+                     DNA bending; dbSNP:rs104894969).
+                     {ECO:0000269|PubMed:11563911, ECO:0000269|PubMed:2247149}.
+                     /FTId=VAR_003721."
+     Region          64
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="M -> R (in SRXY1). {ECO:0000269|PubMed:9678356}.
+                     /FTId=VAR_017298."
+     Site            64
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="mutagenized"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="M->I: Abolishes nuclear localization.
+                     {ECO:0000269|PubMed:16762365}."
+     Region          66..81
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:1HRY}."
+     Region          67
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="F -> V (in SRXY1). {ECO:0000269|PubMed:9678356}.
+                     /FTId=VAR_017299."
+     Region          68
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="I -> T (in SRXY1; dbSNP:rs104894968).
+                     {ECO:0000269|PubMed:7985018}. /FTId=VAR_003722."
+     Region          75
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="R -> M (in SRXY1; localizes mainly in the
+                     cytoplasm). {ECO:0000269|PubMed:28030592}.
+                     /FTId=VAR_078433."
+     Site            75
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="mutagenized"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="R->N: Strongly reduces nuclear localization.
+                     Abolishes DNA-binding. Does not reduce interaction with
+                     KPNB1 and CAML. {ECO:0000269|PubMed:12764225,
+                     ECO:0000269|PubMed:15746192}."
+     Region          76
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="R -> S (in SRXY1). {ECO:0000269|PubMed:10670762}.
+                     /FTId=VAR_017300."
+     Site            76
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="mutagenized"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="R->P: Reduces nuclear localization. Reduces
+                     DNA-binding. Does not reduce interaction with KPNB1 and
+                     CAML. {ECO:0000269|PubMed:12764225,
+                     ECO:0000269|PubMed:15746192}."
+     Region          78
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="M -> T (in SRXY1). {ECO:0000269|PubMed:8353496}.
+                     /FTId=VAR_003723."
+     Region          86..88
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:1HRY}."
+     Region          87
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N -> Y (in SRXY1). {ECO:0000269|PubMed:10721678}.
+                     /FTId=VAR_017301."
+     Region          89..99
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:1HRY}."
+     Region          90
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="I -> M (in SRXY1; dbSNP:rs104894959).
+                     {ECO:0000269|PubMed:12793612, ECO:0000269|PubMed:1415266,
+                     ECO:0000269|PubMed:9450909}. /FTId=VAR_003724."
+     Region          91
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="S -> G (in SRXY1). {ECO:0000269|PubMed:7717397}.
+                     /FTId=VAR_003725."
+     Region          95
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="G -> E (in SRXY1; dbSNP:rs104894972).
+                     {ECO:0000269|PubMed:10852465}. /FTId=VAR_017302."
+     Region          95
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="G -> R (in SRXY1; dbSNP:rs104894974).
+                     {ECO:0000269|PubMed:1339396}. /FTId=VAR_003726."
+     Region          101
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="L -> H (in SRXY1). {ECO:0000269|PubMed:8447323}.
+                     /FTId=VAR_003727."
+     Region          103..123
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Helical region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:1HRY}."
+     Region          106
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="K -> I (in SRXY1; dbSNP:rs104894964).
+                     {ECO:0000269|PubMed:1415266}. /FTId=VAR_003728."
+     Region          107..139
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Sufficient for interaction with EP300.
+                     {ECO:0000269|PubMed:15297880}."
+     Region          108
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="P -> R (in SRXY1). {ECO:0000269|Ref.47}.
+                     /FTId=VAR_003729."
+     Region          109
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="F -> S (in SRXY1; dbSNP:rs104894956).
+                     {ECO:0000269|PubMed:1483689}. /FTId=VAR_003730."
+     Region          113
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="A -> T (in SRXY1; dbSNP:rs104894966).
+                     {ECO:0000269|PubMed:8105086}. /FTId=VAR_003731."
+     Site            115
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="mutagenized"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="K->R: Does not abolish acetylation activity.
+                     {ECO:0000269|PubMed:15297880}."
+     Site            123
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="mutagenized"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="K->R: Does not abolish acetylation.
+                     {ECO:0000269|PubMed:15297880}."
+     Region          124..126
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Beta-strand region"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000244|PDB:1HRY}."
+     Region          125
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="P -> L (in SRXY1). {ECO:0000269|PubMed:7717397}.
+                     /FTId=VAR_003732."
+     Region          127
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Y -> C (in SRXY1). {ECO:0000269|PubMed:8019555}.
+                     /FTId=VAR_003733."
+     Region          127
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Y -> F (in SRXY1; dbSNP:rs104894973).
+                     {ECO:0000269|PubMed:12107262}. /FTId=VAR_017303."
+     Site            128
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="mutagenized"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="K->R: Does not abolish acetylation.
+                     {ECO:0000269|PubMed:15297880}."
+     Region          129..198
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="SOXp"
+                     /note="SOX transcription factor; pfam12336"
+                     /db_xref="CDD:289133"
+     Region          130..136
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Required for nuclear localization."
+     Region          131
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="P -> R (in SRXY1). {ECO:0000269|Ref.41}.
+                     /FTId=VAR_017304."
+     Region          133
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Variant"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="R -> W (in SRXY1; dbSNP:rs104894976).
+                     {ECO:0000269|PubMed:8353496}. /FTId=VAR_003734."
+     Site            133
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="mutagenized"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="R->W: Reduces nuclear localization. Strongly reduces
+                     nuclear localization; when associated with G-62. Reduces
+                     interaction with KPNB1. Does not reduce interaction with
+                     CAML. Does not abolish DNA-binding.
+                     {ECO:0000269|PubMed:12764225,
+                     ECO:0000269|PubMed:15746192}."
+     Site            134
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="mutagenized"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="K->R: Does not abolish acetylation.
+                     {ECO:0000269|PubMed:15297880}."
+     Site            136
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="mutagenized"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="K->R: Abolishes acetylation. Does not abolish
+                     interaction with EP300. Does not abolish DNA-binding.
+                     Enhances cytoplasmic localization. Abolishes interaction
+                     with KPNB1. {ECO:0000269|PubMed:15297880}."
+     Site            136
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /site_type="modified"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000269|PubMed:15297880}."
+     Region          138..155
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Necessary for interaction with ZNF208 isoform
+                     KRAB-O."
+     Region          198..204
+                     /gene="SRY"
+                     /gene_synonym="TDF"
+                     /region_name="Region of interest in the sequence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Necessary for interaction with SLC9A3R2.
+                     {ECO:0000269|PubMed:9054412}."
+ORIGIN
+        1 mqsyasamls vfnsddyspa vqenipalrr sssflctesc nskyqcetge nskgnvqdrv
+       61 krpmnafivw srdqrrkmal enprmrnsei skqlgyqwkm lteaekwpff qeaqklqamh
+      121 rekypnykyr prrkakmlpk ncsllpadpa svlcsevqld nrlyrddctk athsrmehql
+      181 ghlppinaas spqqrdrysh wtkl
+//
+LOCUS       NP_003131                204 aa            linear   PRI 16-MAR-2018
+DEFINITION  sex-determining region Y protein [Homo sapiens].
+ACCESSION   NP_003131
+VERSION     NP_003131.1
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 204)
+  AUTHORS   Liu C, Ren YF, Dong J, Ke MY, Ma F, Monga SPS, Wu R, Lv Y and Zhang
+            XF.
+  TITLE     Activation of SRY accounts for male-specific hepatocarcinogenesis:
+            Implication in gender disparity of hepatocellular carcinoma
+  JOURNAL   Cancer Lett. 410, 20-31 (2017)
+   PUBMED   28942012
+  REMARK    GeneRIF: Activation of SRY and its downstream Sox9 and PDGFRalpha
+            pathways are commonly involved in male hepatocarcinogenesis, which
+            provides novel insights into gender disparity and sex-specific
+            therapeutic strategies of hepatocellular carcinoma.
+REFERENCE   2  (residues 1 to 204)
+  AUTHORS   Calvo SE, Pagliarini DJ and Mootha VK.
+  TITLE     Upstream open reading frames cause widespread reduction of protein
+            expression and are polymorphic among humans
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 106 (18), 7507-7512 (2009)
+   PUBMED   19372376
+  REMARK    GeneRIF: Includes the study of a disease-related upstream ORF in
+            this gene, and shows that it functions to reduce protein levels by
+            100%.
+REFERENCE   3  (residues 1 to 204)
+  AUTHORS   Sekido R and Lovell-Badge R.
+  TITLE     Sex determination and SRY: down to a wink and a nudge?
+  JOURNAL   Trends Genet. 25 (1), 19-29 (2009)
+   PUBMED   19027189
+  REMARK    Review article
+REFERENCE   4  (residues 1 to 204)
+  AUTHORS   Clepet C, Schafer AJ, Sinclair AH, Palmer MS, Lovell-Badge R and
+            Goodfellow PN.
+  TITLE     The human SRY transcript
+  JOURNAL   Hum. Mol. Genet. 2 (12), 2007-2012 (1993)
+   PUBMED   8111368
+REFERENCE   5  (residues 1 to 204)
+  AUTHORS   Behlke MA, Bogan JS, Beer-Romero P and Page DC.
+  TITLE     Evidence that the SRY protein is encoded by a single exon on the
+            human Y chromosome
+  JOURNAL   Genomics 17 (3), 736-739 (1993)
+   PUBMED   8244390
+REFERENCE   6  (residues 1 to 204)
+  AUTHORS   Su H and Lau YF.
+  TITLE     Identification of the transcriptional unit, structural organization,
+            and promoter sequence of the human sex-determining region Y (SRY)
+            gene, using a reverse genetic approach
+  JOURNAL   Am. J. Hum. Genet. 52 (1), 24-38 (1993)
+   PUBMED   8434602
+REFERENCE   7  (residues 1 to 204)
+  AUTHORS   Mohnach,L., Fechner,P.Y. and Keegan,C.E.
+  TITLE     Nonsyndromic Disorders of Testicular Development
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.); GENEREVIEWS((R)); (1993)
+   PUBMED   20301714
+REFERENCE   8  (residues 1 to 204)
+  AUTHORS   Delot,E.C. and Vilain,E.J.
+  TITLE     Nonsyndromic 46,XX Testicular Disorders of Sex Development
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Stephens
+            K and Amemiya A (Eds.); GENEREVIEWS((R)); (1993)
+   PUBMED   20301589
+REFERENCE   9  (residues 1 to 204)
+  AUTHORS   Hawkins JR, Taylor A, Berta P, Levilliers J, Van der Auwera B and
+            Goodfellow PN.
+  TITLE     Mutational analysis of SRY: nonsense and missense mutations in XY
+            sex reversal
+  JOURNAL   Hum. Genet. 88 (4), 471-474 (1992)
+   PUBMED   1339396
+REFERENCE   10  (residues 1 to 204)
+  AUTHORS   Sinclair AH, Berta P, Palmer MS, Hawkins JR, Griffiths BL, Smith MJ,
+            Foster JW, Frischauf AM, Lovell-Badge R and Goodfellow PN.
+  TITLE     A gene from the human sex-determining region encodes a protein with
+            homology to a conserved DNA-binding motif
+  JOURNAL   Nature 346 (6281), 240-244 (1990)
+   PUBMED   1695712
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AC006040.3 and L10101.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            Summary: This intronless gene encodes a transcription factor that
+            is a member of the high mobility group (HMG)-box family of
+            DNA-binding proteins. This protein is the testis-determining factor
+            (TDF), which initiates male sex determination. Mutations in this
+            gene give rise to XY females with gonadal dysgenesis (Swyer
+            syndrome); translocation of part of the Y chromosome containing
+            this gene to the X chromosome causes XX male syndrome. [provided by
+            RefSeq, Jul 2008].
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+FEATURES             Location/Qualifiers
+     source          1..204
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+                     /chromosome="Y"
+                     /map="Yp11.2"
+     Protein         1..204
+                     /product="sex-determining region Y protein"
+                     /note="essential protein for sex determination in human
+                     males; sex-determining region on Y; testis-determining
+                     factor on Y; truncated sex-determining region Y protein"
+                     /calculated_mol_wt="23753"
+     Region          59..136
+                     /region_name="Sufficient for interaction with KPNB1"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05066.1)"
+     Region          59..130
+                     /region_name="SOX-TCF_HMG-box"
+                     /note="SOX-TCF_HMG-box, class I member of the HMG-box
+                     superfamily of DNA-binding proteins. These proteins contain
+                     a single HMG box, and bind the minor groove of DNA in a
+                     highly sequence-specific manner. Members include SRY and
+                     its homologs in insects and...; cd01388"
+                     /db_xref="CDD:238684"
+     Region          61..77
+                     /region_name="Required for nuclear localization"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05066.1)"
+     Site            order(62,64..65,67..68,71..72,75,79,87,92,95,98,117)
+                     /site_type="DNA binding"
+                     /note="DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238684"
+     Region          107..139
+                     /region_name="Sufficient for interaction with EP300.
+                     {ECO:0000269|PubMed:15297880}"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05066.1)"
+     Region          129..198
+                     /region_name="SOXp"
+                     /note="SOX transcription factor; pfam12336"
+                     /db_xref="CDD:289133"
+     Region          130..136
+                     /region_name="Required for nuclear localization"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05066.1)"
+     Site            136
+                     /site_type="acetylation"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="N6-acetyllysine. {ECO:0000269|PubMed:15297880};
+                     propagated from UniProtKB/Swiss-Prot (Q05066.1)"
+     Region          138..155
+                     /region_name="Necessary for interaction with ZNF208 isoform
+                     KRAB-O"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05066.1)"
+     Region          198..204
+                     /region_name="Necessary for interaction with SLC9A3R2.
+                     {ECO:0000269|PubMed:9054412}"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q05066.1)"
+     CDS             1..204
+                     /gene="SRY"
+                     /gene_synonym="SRXX1; SRXY1; TDF; TDY"
+                     /coded_by="NM_003140.2:139..753"
+                     /db_xref="CCDS:CCDS14772.1"
+                     /db_xref="GeneID:6736"
+                     /db_xref="HGNC:HGNC:11311"
+                     /db_xref="MIM:480000"
+ORIGIN
+        1 mqsyasamls vfnsddyspa vqenipalrr sssflctesc nskyqcetge nskgnvqdrv
+       61 krpmnafivw srdqrrkmal enprmrnsei skqlgyqwkm lteaekwpff qeaqklqamh
+      121 rekypnykyr prrkakmlpk ncsllpadpa svlcsevqld nrlyrddctk athsrmehql
+      181 ghlppinaas spqqrdrysh wtkl
+//
+LOCUS       ASC48667                  96 aa            linear   PRI 26-JUN-2017
+DEFINITION  truncated sex-determining region Y protein [Homo sapiens].
+ACCESSION   ASC48667
+VERSION     ASC48667.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 96)
+  AUTHORS   Mei Jie,D.
+  TITLE     46,XY female sex reversal patient with a novel point mutation in the
+            coding sequence of the SRY gene
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 96)
+  AUTHORS   Mei Jie,D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-MAR-2017) Center for Clinical Laboratory, The First
+            Affiliated Hospital of Wenzhou Medical University, Nan Bai Xiang
+            Street, Wen Zhou, Zhe Jiang 325000, China
+FEATURES             Location/Qualifiers
+     source          1..96
+                     /organism="Homo sapiens"
+                     /db_xref="taxon:9606"
+     Protein         1..96
+                     /product="truncated sex-determining region Y protein"
+     Region          59..>96
+                     /region_name="HMG-box"
+                     /note="High Mobility Group (HMG)-box is found in a variety
+                     of eukaryotic chromosomal proteins and transcription
+                     factors. HMGs bind to the minor groove of DNA and have been
+                     classified by DNA binding preferences. Two phylogenically
+                     distinct groups of Class I...; cl00082"
+                     /db_xref="CDD:320749"
+     Site            order(62,64..65,67..68,71..72,75,79,92,95)
+                     /site_type="DNA binding"
+                     /note="DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238037"
+     CDS             1..96
+                     /gene="SRY"
+                     /coded_by="KY778007.1:139..429"
+                     /note="initiates male sex determination; contains mutation
+                     that gives rise to XY females with gonadal dysgenesis
+                     (Swyer syndrome)"
+ORIGIN
+        1 mqsyasamls vfnsddyspa vqenipalrr sssflctesc nskyqcetge nskgnvqdrv
+       61 krpmnafivw srdqrrkmal enprmrnsei skqlgy
+//
+LOCUS       ADJ37117                 198 aa            linear   PRI 25-JUL-2016
+DEFINITION  testis-determining factor, partial [Homo sapiens].
+ACCESSION   ADJ37117
+VERSION     ADJ37117.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 198)
+  AUTHORS   Khan,F.H., Ganesan,P. and Kumar,S.
+  TITLE     Mutational analysis of Y chromosome linked loci in human males
+            exposed to hexachlorocyclohexane (HCH)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 198)
+  AUTHORS   Khan,F.H., Ganesan,P. and Kumar,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-MAY-2010) Zoology, University of Lucknow, Molecular
+            Human Genetics Lab, Lucknow, U.P. 226007, India
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..198
+                     /organism="Homo sapiens"
+                     /isolate="SRYex7"
+                     /isolation_source="subject exposed to hexachlorocyclohexane
+                     while living at a dump site"
+                     /db_xref="taxon:9606"
+                     /chromosome="Y"
+                     /map="Yp11.3"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="India: Lucknow, Lindane manufacturing plant"
+                     /PCR_primers="fwd_seq: gacaatgcaatcatatgcttctgc, rev_seq:
+                     ctgtagcggtcccgttgctgcggtg"
+     Protein         1..>198
+                     /product="testis-determining factor"
+                     /name="TDS"
+     Region          59..130
+                     /region_name="SOX-TCF_HMG-box"
+                     /note="SOX-TCF_HMG-box, class I member of the HMG-box
+                     superfamily of DNA-binding proteins. These proteins contain
+                     a single HMG box, and bind the minor groove of DNA in a
+                     highly sequence-specific manner. Members include SRY and
+                     its homologs in insects and...; cd01388"
+                     /db_xref="CDD:238684"
+     Site            order(62,64..65,67..68,71..72,75,79,87,92,95,98,117)
+                     /site_type="DNA binding"
+                     /note="DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238684"
+     Region          129..198
+                     /region_name="SOXp"
+                     /note="SOX transcription factor; pfam12336"
+                     /db_xref="CDD:289133"
+     CDS             1..198
+                     /gene="SRY"
+                     /coded_by="HM362431.1:5..>600"
+ORIGIN
+        1 mqsyasamls vfnsddyspa vqenipalrr sssflctesc nskyqcetge nskgnvqdrv
+       61 krpmnafivw srdqrrkmaq enprmrnsei skqlgyqwkm lteaekwpff qeaqklqamh
+      121 rekypnykyr prrkakmlpk ncsllpadpa svlcsevqld nrlyrddctk athsrmehql
+      181 ghlppinaas spqqrdry
+//
+LOCUS       ADJ37116                 198 aa            linear   PRI 25-JUL-2016
+DEFINITION  testis-determining factor, partial [Homo sapiens].
+ACCESSION   ADJ37116
+VERSION     ADJ37116.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 198)
+  AUTHORS   Khan,F.H., Ganesan,P. and Kumar,S.
+  TITLE     Mutational analysis of Y chromosome linked loci in human males
+            exposed to hexachlorocyclohexane (HCH)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 198)
+  AUTHORS   Khan,F.H., Ganesan,P. and Kumar,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-MAY-2010) Zoology, University of Lucknow, Molecular
+            Human Genetics Lab, Lucknow, U.P. 226007, India
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..198
+                     /organism="Homo sapiens"
+                     /isolate="SRYex6"
+                     /isolation_source="subject exposed to hexachlorocyclohexane
+                     while living at a dump site"
+                     /db_xref="taxon:9606"
+                     /chromosome="Y"
+                     /map="Yp11.3"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="India: Lucknow, Lindane manufacturing plant"
+                     /PCR_primers="fwd_seq: gacaatgcaatcatatgcttctgc, rev_seq:
+                     ctgtagcggtcccgttgctgcggtg"
+     Protein         1..>198
+                     /product="testis-determining factor"
+                     /name="TDS"
+     Region          59..130
+                     /region_name="SOX-TCF_HMG-box"
+                     /note="SOX-TCF_HMG-box, class I member of the HMG-box
+                     superfamily of DNA-binding proteins. These proteins contain
+                     a single HMG box, and bind the minor groove of DNA in a
+                     highly sequence-specific manner. Members include SRY and
+                     its homologs in insects and...; cd01388"
+                     /db_xref="CDD:238684"
+     Site            order(62,64..65,67..68,71..72,75,79,87,92,95,98,117)
+                     /site_type="DNA binding"
+                     /note="DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238684"
+     Region          129..198
+                     /region_name="SOXp"
+                     /note="SOX transcription factor; pfam12336"
+                     /db_xref="CDD:289133"
+     CDS             1..198
+                     /gene="SRY"
+                     /coded_by="HM362430.1:5..>600"
+ORIGIN
+        1 mqsyasamls vfnsddyspa vqenipalrr sssflctesc nskyqcetge nskgnvqdrv
+       61 krpmnafivw srdqrrkmal enprmrnsei skqlgyqwkm lteaekwpff qeaqklqamh
+      121 rekypnykyr prrkakmlpk kcsllpadpa svlcsevqld nrlyrddctk athsrmehql
+      181 ghlppinaas spqqrdry
+//
+LOCUS       ADJ37115                 198 aa            linear   PRI 25-JUL-2016
+DEFINITION  testis-determining factor, partial [Homo sapiens].
+ACCESSION   ADJ37115
+VERSION     ADJ37115.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 198)
+  AUTHORS   Khan,F.H., Ganesan,P. and Kumar,S.
+  TITLE     Mutational analysis of Y chromosome linked loci in human males
+            exposed to hexachlorocyclohexane (HCH)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 198)
+  AUTHORS   Khan,F.H., Ganesan,P. and Kumar,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-MAY-2010) Zoology, University of Lucknow, Molecular
+            Human Genetics Lab, Lucknow, U.P. 226007, India
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..198
+                     /organism="Homo sapiens"
+                     /isolate="SRYex5"
+                     /isolation_source="subject exposed to hexachlorocyclohexane
+                     while living at a dump site"
+                     /db_xref="taxon:9606"
+                     /chromosome="Y"
+                     /map="Yp11.3"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="India: Lucknow, Lindane manufacturing plant"
+                     /PCR_primers="fwd_seq: gacaatgcaatcatatgcttctgc, rev_seq:
+                     ctgtagcggtcccgttgctgcggtg"
+     Protein         1..>198
+                     /product="testis-determining factor"
+                     /name="TDS"
+     Region          59..130
+                     /region_name="SOX-TCF_HMG-box"
+                     /note="SOX-TCF_HMG-box, class I member of the HMG-box
+                     superfamily of DNA-binding proteins. These proteins contain
+                     a single HMG box, and bind the minor groove of DNA in a
+                     highly sequence-specific manner. Members include SRY and
+                     its homologs in insects and...; cd01388"
+                     /db_xref="CDD:238684"
+     Site            order(62,64..65,67..68,71..72,75,79,87,92,95,98,117)
+                     /site_type="DNA binding"
+                     /note="DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238684"
+     Region          129..198
+                     /region_name="SOXp"
+                     /note="SOX transcription factor; pfam12336"
+                     /db_xref="CDD:289133"
+     CDS             1..198
+                     /gene="SRY"
+                     /coded_by="HM362429.1:5..>600"
+ORIGIN
+        1 mqsyasamls vfnsddyspa vqenipalrr sssflctesc nskyqcetge nskgnvqdrv
+       61 krpmnafivw srdqrrkmal enprmrnsei skqlgyqwkm lteaekwpff qeahklqamh
+      121 rekypnykyr prrkakmlpk ncsllpadpa svlcsevqld nrlyrddctk athsrmehql
+      181 ghlppinaas spqqrdry
+//
+LOCUS       ADJ37114                 198 aa            linear   PRI 25-JUL-2016
+DEFINITION  testis-determining factor, partial [Homo sapiens].
+ACCESSION   ADJ37114
+VERSION     ADJ37114.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 198)
+  AUTHORS   Khan,F.H., Ganesan,P. and Kumar,S.
+  TITLE     Mutational analysis of Y chromosome linked loci in human males
+            exposed to hexachlorocyclohexane (HCH)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 198)
+  AUTHORS   Khan,F.H., Ganesan,P. and Kumar,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-MAY-2010) Zoology, University of Lucknow, Molecular
+            Human Genetics Lab, Lucknow, U.P. 226007, India
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..198
+                     /organism="Homo sapiens"
+                     /isolate="SRYex4"
+                     /isolation_source="subject exposed to hexachlorocyclohexane
+                     while living at a dump site"
+                     /db_xref="taxon:9606"
+                     /chromosome="Y"
+                     /map="Yp11.3"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="India: Lucknow, Lindane manufacturing plant"
+                     /PCR_primers="fwd_seq: gacaatgcaatcatatgcttctgc, rev_seq:
+                     ctgtagcggtcccgttgctgcggtg"
+     Protein         1..>198
+                     /product="testis-determining factor"
+                     /name="TDS"
+     Region          59..130
+                     /region_name="SOX-TCF_HMG-box"
+                     /note="SOX-TCF_HMG-box, class I member of the HMG-box
+                     superfamily of DNA-binding proteins. These proteins contain
+                     a single HMG box, and bind the minor groove of DNA in a
+                     highly sequence-specific manner. Members include SRY and
+                     its homologs in insects and...; cd01388"
+                     /db_xref="CDD:238684"
+     Site            order(62,64..65,67..68,71..72,75,79,87,92,95,98,117)
+                     /site_type="DNA binding"
+                     /note="DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238684"
+     Region          129..198
+                     /region_name="SOXp"
+                     /note="SOX transcription factor; pfam12336"
+                     /db_xref="CDD:289133"
+     CDS             1..198
+                     /gene="SRY"
+                     /coded_by="HM362428.1:5..>600"
+ORIGIN
+        1 mqsyasamls vfnsddyspa vqenipalrr sssflctegc nskyqcetge nskgnvqdrv
+       61 krpmnafivw srdqrrkmal enprmrnsei skqlgyqwkm pteaekwpff qeaqklqamh
+      121 rekypnykyr prrkakmlpk ncsllpadpa svlcsevqld nrlyrddctk athsrmehql
+      181 ghlppinaas spqqrdry
+//
+LOCUS       ADJ37113                 198 aa            linear   PRI 25-JUL-2016
+DEFINITION  testis-determining factor, partial [Homo sapiens].
+ACCESSION   ADJ37113
+VERSION     ADJ37113.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 198)
+  AUTHORS   Khan,F.H., Ganesan,P. and Kumar,S.
+  TITLE     Mutational analysis of Y chromosome linked loci in human males
+            exposed to hexachlorocyclohexane (HCH)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 198)
+  AUTHORS   Khan,F.H., Ganesan,P. and Kumar,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-MAY-2010) Zoology, University of Lucknow, Molecular
+            Human Genetics Lab, Lucknow, U.P. 226007, India
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..198
+                     /organism="Homo sapiens"
+                     /isolate="SRYex1"
+                     /isolation_source="subject exposed to hexachlorocyclohexane
+                     while living at a dump site"
+                     /db_xref="taxon:9606"
+                     /chromosome="Y"
+                     /map="Yp11.3"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="India: Lucknow, Lindane manufacturing plant"
+                     /PCR_primers="fwd_seq: gacaatgcaatcatatgcttctgc, rev_seq:
+                     ctgtagcggtcccgttgctgcggtg"
+     Protein         1..>198
+                     /product="testis-determining factor"
+                     /name="TDS"
+     Region          59..130
+                     /region_name="SOX-TCF_HMG-box"
+                     /note="SOX-TCF_HMG-box, class I member of the HMG-box
+                     superfamily of DNA-binding proteins. These proteins contain
+                     a single HMG box, and bind the minor groove of DNA in a
+                     highly sequence-specific manner. Members include SRY and
+                     its homologs in insects and...; cd01388"
+                     /db_xref="CDD:238684"
+     Site            order(62,64..65,67..68,71..72,75,79,87,92,95,98,117)
+                     /site_type="DNA binding"
+                     /note="DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238684"
+     Region          129..198
+                     /region_name="SOXp"
+                     /note="SOX transcription factor; pfam12336"
+                     /db_xref="CDD:289133"
+     CDS             1..198
+                     /gene="SRY"
+                     /coded_by="HM362427.1:5..>600"
+ORIGIN
+        1 mqsyasamls vfnsddyspa vqenipalrr sssilctesc nskyqcetge nskgnvqdrv
+       61 krpmnafivw srdqrrkmal enprmrnsei skqlgyqwkm lteaekwpff qeaqklqamh
+      121 rekypnykyr prrkakmlpk ncsllpadpa svlcsevqld nrlyrddctk athsrmehql
+      181 ghlppinaas spqqrdry
+//
+LOCUS       ADJ37112                 198 aa            linear   PRI 25-JUL-2016
+DEFINITION  testis-determining factor, partial [Homo sapiens].
+ACCESSION   ADJ37112
+VERSION     ADJ37112.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 198)
+  AUTHORS   Khan,F.H., Ganesan,P. and Kumar,S.
+  TITLE     Mutational analysis of Y chromosome linked loci in human males
+            exposed to hexachlorocyclohexane (HCH)
+  JOURNAL   Unpublished
+REFERENCE   2  (residues 1 to 198)
+  AUTHORS   Khan,F.H., Ganesan,P. and Kumar,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-MAY-2010) Zoology, University of Lucknow, Molecular
+            Human Genetics Lab, Lucknow, U.P. 226007, India
+COMMENT     Method: conceptual translation supplied by author.
+FEATURES             Location/Qualifiers
+     source          1..198
+                     /organism="Homo sapiens"
+                     /isolate="SRYcont"
+                     /isolation_source="healthy subject living away from
+                     hexachlorocyclohexane dump site"
+                     /db_xref="taxon:9606"
+                     /chromosome="Y"
+                     /map="Yp11.3"
+                     /sex="male"
+                     /tissue_type="blood"
+                     /country="India: Lucknow"
+                     /PCR_primers="fwd_seq: gacaatgcaatcatatgcttctgc, rev_seq:
+                     ctgtagcggtcccgttgctgcggtg"
+     Protein         1..>198
+                     /product="testis-determining factor"
+                     /name="TDS"
+     Region          59..130
+                     /region_name="SOX-TCF_HMG-box"
+                     /note="SOX-TCF_HMG-box, class I member of the HMG-box
+                     superfamily of DNA-binding proteins. These proteins contain
+                     a single HMG box, and bind the minor groove of DNA in a
+                     highly sequence-specific manner. Members include SRY and
+                     its homologs in insects and...; cd01388"
+                     /db_xref="CDD:238684"
+     Site            order(62,64..65,67..68,71..72,75,79,87,92,95,98,117)
+                     /site_type="DNA binding"
+                     /note="DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238684"
+     Region          129..198
+                     /region_name="SOXp"
+                     /note="SOX transcription factor; pfam12336"
+                     /db_xref="CDD:289133"
+     CDS             1..198
+                     /gene="SRY"
+                     /coded_by="HM362426.1:5..>600"
+ORIGIN
+        1 mqsyasamls vfnsddyspa vqenipalrr sssflctesc nskyqcetge nskgnvqdrv
+       61 krpmnafivw srdqrrkmal enprmrnsei skqlgyqwkm lteaekwpff qeaqklqamh
+      121 rekypnykyr prrkakmlpk ncsllpadpa svlcsevqld nrlyrddctk athsrmehql
+      181 ghlppinaas spqqrdry
+//
+LOCUS       AAX93513                 198 aa            linear   PRI 26-JUL-2016
+DEFINITION  SRY protein, partial [Homo sapiens].
+ACCESSION   AAX93513
+VERSION     AAX93513.1
+KEYWORDS    .
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (residues 1 to 198)
+  AUTHORS   Premi,S., Srivastava,J., Chandy,S.P., Ahmad,J. and Ali,S.
+  TITLE     Tandem duplication and copy number polymorphism of the SRY gene in
+            patients with sex chromosome anomalies and males exposed to natural
+            background radiation
+  JOURNAL   Mol. Hum. Reprod. 12 (2), 113-121 (2006)
+   PUBMED   16510537
+REFERENCE   2  (residues 1 to 198)
+  AUTHORS   Premi,S., Srivastava,J. and Ali,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (04-APR-2005) Molecular Genentics Laboratory, National
+            Institute of Immunology, Aruna Asaf Ali Marg, New Delhi, Delhi
+            110067, India
+COMMENT     Method: conceptual translation.
+FEATURES             Location/Qualifiers
+     source          1..198
+                     /organism="Homo sapiens"
+                     /isolation_source="rare supernumerary Y chromosome
+                     Klinefelter syndrome patient 49,XYYYY"
+                     /db_xref="taxon:9606"
+                     /clone="pSOx5"
+     Protein         1..>198
+                     /product="SRY protein"
+     Region          59..130
+                     /region_name="SOX-TCF_HMG-box"
+                     /note="SOX-TCF_HMG-box, class I member of the HMG-box
+                     superfamily of DNA-binding proteins. These proteins contain
+                     a single HMG box, and bind the minor groove of DNA in a
+                     highly sequence-specific manner. Members include SRY and
+                     its homologs in insects and...; cd01388"
+                     /db_xref="CDD:238684"
+     Site            order(62,64..65,67..68,71..72,75,79,87,92,95,98,117)
+                     /site_type="DNA binding"
+                     /note="DNA binding site [nucleotide binding]"
+                     /db_xref="CDD:238684"
+     Region          129..198
+                     /region_name="SOXp"
+                     /note="SOX transcription factor; pfam12336"
+                     /db_xref="CDD:289133"
+     CDS             1..198
+                     /gene="SRY"
+                     /coded_by="AY998490.1:2..>597"
+ORIGIN
+        1 mqsyasamls vfnsddyspa vqenipalrr sssflctesc nskyqcetge nskgnvqdrv
+       61 krpmnafivw srdqrrkmal enprmrnsei skqlgyqwkm lteaekwpff qeaqklqamh
+      121 rekypnykyr prrkakmlpk ncsllpadpa svlcsevqld nrlyrddcte athsrmehql
+      181 ghlppinaas spqqrdry
+//
